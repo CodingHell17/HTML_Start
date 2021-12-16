@@ -29,3 +29,26 @@ ex) <h1>나의 목표</h1>
 간단하다. 'h2'라고만 수정해주면 된다.
 
 ex) <h2>소제목 받아라!</h2>
+
+
+<h1>2021.12.16</h1>
+<h2>html의 속성 공부</h2>
+
+가끔, 우리는 홈페이지를 보면 어떠한 단어를 클릭할 때, 다른 웹사이트로 연결하는 것을 볼 수 있다. 이것을 html에서는 속성을 활용하여 연결할 수 있는데
+
+예를 들어, 나의 블로그를 여기다가 올릴려고 한다. 
+
+그때, 'a href'를 활용하여 올리면 되는데, 검색창에 나의 블로그 주소를 복사하여 붙여넣기 하면 된다.
+
+즉, 'a href=https://blog.naver.com/codinghell17나의 블로그 /a'이렇게 표현해주면 된다. 한번 해보겠다.
+
+ex) <a href=https://blog.naver.com/codinghell17>나의 블로그</a>
+이렇게 쓰면 된다!
+
+근데 누르면 보이는 것처럼 새로운 탭에서 열리지 않고, 그저 전에 있던 홈페이지에서 열리는데 만약에 새로운 홈페이지에서 열리게 하고 싶으면
+
+'a href=https://blog.naver.com/codinghell17 target="_blank" 나의블로그/a'이런식으로 적어주면 된다.
+
+ex) <a href=https://blog.naver.com/codinghell17 target="_black">나의 블로그</a>
+이렇게 쓰면 된다!
+
