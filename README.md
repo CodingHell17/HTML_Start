@@ -50,5 +50,18 @@ ex) <a href=https://blog.naver.com/codinghell17>나의 블로그</a>
 'a href="https://blog.naver.com/codinghell17" target="_blank" 나의블로그/a'이런식으로 적어주면 된다.
 
 ex) <a href="https://blog.naver.com/codinghell17" target="_black">나의 블로그</a>
+이렇게 쓰면 된다! 
+
++ 확인해보니 안된다..똑같이 썼는데 왜 안되는지 모르겠다..쪽팔리니 넘어가자!
+
+순서는 바꿔도 상관없다. 'a target="_blank" href=' 이런식으로 시작해도 된다.
+
+마우스만 갖다놓았는데 아무것도 누르지 않고, 부가적인 설명을 붙이고 싶을 때는 
+
+'a target="_blank" href"https://blog.naver.com/codinghell17" title="CodingHell17"나의 블로그/a' 이런식으로 적어주면 된다.
+
+ex) <a target="_blank" href="https://blog.naver.com/codinghell17" title="CodingHEll17">나의 블로그</a>
 이렇게 쓰면 된다!
+
+
 
