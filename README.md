@@ -47,8 +47,8 @@ ex) <a href=https://blog.naver.com/codinghell17>나의 블로그</a>
 
 근데 누르면 보이는 것처럼 새로운 탭에서 열리지 않고, 그저 전에 있던 홈페이지에서 열리는데 만약에 새로운 홈페이지에서 열리게 하고 싶으면
 
-'a href=https://blog.naver.com/codinghell17 target="_blank" 나의블로그/a'이런식으로 적어주면 된다.
+'a href="https://blog.naver.com/codinghell17" target="_blank" 나의블로그/a'이런식으로 적어주면 된다.
 
-ex) <a href=https://blog.naver.com/codinghell17 target="_black">나의 블로그</a>
+ex) <a href="https://blog.naver.com/codinghell17" target="_black">나의 블로그</a>
 이렇게 쓰면 된다!
 
